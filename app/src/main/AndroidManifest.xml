@@ -13,7 +13,7 @@
         <activity
             android:name=".CallActivity"
             android:exported="false"
-            android:theme="@style/Theme.NoTitleBar.FullScreen"/>
+            android:theme="@style/Theme.FakeCall.FullScreen"/>
         <activity
             android:name=".MainActivity"
             android:exported="true">
